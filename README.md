@@ -12,5 +12,7 @@ If ypu wish to retry on any question if you answer it wrong then you can also do
 
 You can also retry a complete level if you've not scored much then you can do that also.
 
+High scorers will also be displayed at the end. If your score is also in the top 3 please send us the screenshot so that your name can also be displayed in the list.
+
 Must try CLI app !
  
