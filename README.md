@@ -8,7 +8,7 @@ Level-1: It also has 5 MCQs of 1 mark each.
 
 You'll be able to play level-1 iff you clear level-0.
 
-If ypu wish to retry on any question if you answer it wrong then you can also do that.
+If you wish to retry on any question if you answer it wrong then you can also do that.
 
 You can also retry a complete level if you've not scored much then you can do that also.
 
